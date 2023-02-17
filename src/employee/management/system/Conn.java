@@ -11,7 +11,7 @@ package employee.management.system;
 public class Conn 
 {
     
-    Connection c;                                    //3>There is an Interface in Java named Connection in Sql package, we have to create a connection String
+    Connection c;                      //3>There is an Interface in Java named Connection in Sql package, we have to create a connection String
      Statement s;                     //5> This is to create a statement 
     public Conn()
     {
