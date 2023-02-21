@@ -10,5 +10,7 @@ Objective
 The objective of this work is to give a complete approach to personnel information management. This will be accomplished by developing and deploying an HR management system that will result in a significant shift in the way employee data is managed.This system's objectives include the following:
 
 1 ) Design of an HR management system to meet needs such as adding and deleting employees, viewing     and printing employee data, and updating employee   information.
+
 2) Employee data is stored in a well-designed database.
+
 3) An easy-to-use interface that will let user interact with the system.
